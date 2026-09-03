@@ -43,6 +43,7 @@ Soy nuevo en el mundo de la programación y estoy dedicando mi tiempo a dominar 
 - 💼 [Github](https://github.com/Laswvw)
 - 📧 [Correo Electrónico (Por definir)](mailto:tu-correo@ejemplo.com)
 - 📝 [Blog/Portafolio (Por definir)](<AQUÍ_MI_PORTAFOLIO>)
+- Discord = @laswww
 ---
 ### ⚡ Fun fact
 Me encantan los videojuegos, los libros y por supuesto, la programación :D
