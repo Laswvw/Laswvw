@@ -44,7 +44,7 @@ Soy nuevo en el mundo de la programación y estoy dedicando mi tiempo a dominar 
 - 📧 [Correo Electrónico (Por definir)](mailto:tu-correo@ejemplo.com)
 - 📝 [Blog/Portafolio (Por definir)](<AQUÍ_MI_PORTAFOLIO>)
 ---
-⚡### Fun fact
+### ⚡ Fun fact
 Me encantan los videojuegos, los libros y por supuesto, la programación :D
 <!--
 **Laswvw/Laswvw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
